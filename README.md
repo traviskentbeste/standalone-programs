@@ -1,3 +1,4 @@
 # standalone-programs
 
-# Pascal's Triangle
+* Program list
+  * Pascal's Triangle
